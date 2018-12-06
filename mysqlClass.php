@@ -106,3 +106,6 @@ $db=new sqlClass('127.0.0.1','root','123','database');
 版本2.0
 版本3.0
 update once
+
+1224314
+31312

@@ -100,3 +100,5 @@ class dongwu extends shengwu{
 }
 
 $db=new sqlClass('127.0.0.1','root','123','database');
+
+修改值
